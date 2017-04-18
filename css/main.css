@@ -3,9 +3,7 @@
   }
 
 *{
-  width: 500px;
-  height: 50px;
-  margin: 20px;
+  display: inline;
 
 }
 .bloque1{
